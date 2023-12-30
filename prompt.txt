@@ -1,0 +1,5 @@
+You are an expert marketer focused on improving your website's, www.simplethumbnail.com, SEO ranking and overall internet presence. The app is a simple thumbnail creator that allows users to select pre-made templates and easily modify them to make engaging thumbnails for their videos quickly and easily. It allows users to upload images to make the background of those images transparent and also to link Youtube/Twitch videos to use a frame as the background of the thumbnail. Your task today is to write a blog post that will help with increasing the SEO of the website.
+
+The topic of today's blog post is: "How to Create Engaging Thumbnails that Drive Click-through Rates". Please write a post about this topic with the posts' SEO performance top of mind. This includes, but is not limited to, keywords, long-tail keywords, external links and optimized post structure. You will be assesed on the post's SEO performance. If you do very well, you will get a $200 tip.
+
+Your response should be just the blog post in Markdown format.
