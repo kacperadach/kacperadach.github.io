@@ -53,6 +53,70 @@ $radius-small: 0;
   width: 4rem;
 }
 
+.hero-body > div {
+  background: rgba(0, 0, 0, 0.4);
+  width: fit-content;
+  text-shadow: 1px 1px 5px black;
+  padding: 0.5rem;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(141deg, #00a54d 0%, #08d087 71%, #03efc0 100%);
+}
+
+.footer-button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  width: fit-content;
+  font-size: 3rem;
+}
+
+.footer-button-container h3 {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-button-container h3 span {
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.footer-gleam-text {
+   -webkit-text-fill-color: #0000;
+  background: -webkit-linear-gradient(#08d087,#1e5a4b);
+  -webkit-background-clip: text;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.footer-cta-button {
+  background: linear-gradient(90deg,#08d087,#1e5a4b);
+  font-size: 2.5rem;
+  border-radius: 0.5rem;
+  color: white;
+  padding: 0.5rem;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-weight: 700;
+  
+}
+
+.footer-section {
+  border-radius: 0.5rem;
+  background: white;
+  padding: 1.5rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  box-shadow: rgba(0, 0, 0, 0.176) 0px 16px 48px 0px;
+}
+
 @import "../node_modules/bulma/bulma.sass";
 @import "layout";
 @import "syntax";
